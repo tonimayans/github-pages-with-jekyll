@@ -1,3 +1,6 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+**In this blog you can learn a lot about**
+1. Science
+2. Technology
+3. Mountain sports
